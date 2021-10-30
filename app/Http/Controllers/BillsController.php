@@ -63,7 +63,7 @@ class BillsController extends Controller
                 ->decrement('quantity', $item['quantity']);
         }
 
-        // add total money to safe
+        // add total money to the safe
         DB::table('safes')
             ->where('id', $safe)
             ->increment('money_amount', $total);
