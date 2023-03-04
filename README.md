@@ -25,4 +25,4 @@ a simple system for issuing bills, managing users and stock.
 
 `http://bills.i3rby.com/` [here](http://bills.i3rby.com/).
 
-> by @adelezzatl
+> by @adel-ezzat
