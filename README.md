@@ -21,8 +21,4 @@ a simple system for issuing bills, managing users and stock.
 1. laravel 6 server requirements [here](https://laravel.com/docs/6.x#server-requirements) .
 2. composer dependency manager [here](https://getcomposer.org/).
 
-## Demo
-
-`http://bills.i3rby.com/` [here](http://bills.i3rby.com/).
-
 > by @adel-ezzat
